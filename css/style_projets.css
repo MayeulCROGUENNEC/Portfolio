@@ -1,0 +1,122 @@
+html{
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'orbitron';
+  color: #000;
+  height: 100vh;
+  background-image: url(background.png);
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.home_tardis {
+  z-index: 1;
+  width: 10rem;
+  margin-top: 2%;
+  margin-left: 0%;
+  position: fixed;
+}
+
+.titre{
+  z-index: 1;
+  font-size: 5rem;
+  margin-top: 5%;
+  text-align: center;
+  font-family: 'orbitron';
+}
+
+.titre2{
+  z-index: 1;
+  font-size: 2.5rem;
+  margin-top: 4%;
+  text-align: center;
+  font-family: 'Abel';
+}
+
+.titre3{
+  z-index: 1;
+  font-size: 2.5rem;
+  margin-top: 6%;
+  text-align: center;
+  font-family: 'Abel';
+}
+
+/*______________________________________________LE_CAROUSEL_WESH_________________________________*/
+.section_carousel {
+  margin-left: 26%;
+  margin-top: 5%;
+}
+
+.je_suis_bouton{
+  margin-top: 1rem;
+}
+.carousel {
+            width: 700px;
+            overflow: hidden;
+            text-align: center;
+        }
+
+        .carousel-wrap {
+            display: flex;
+            flex-wrap: nowrap;
+            transition: all 0.8s;
+        }
+
+        .carousel-wrap img {
+            display: block;
+            width: 700px;
+            height: 700px;
+        }
+
+
+/*______________________________________________GRID_WESH______________________________________________________*/
+
+.wrapper {
+  margin-top: 6%;
+  margin-right: 2%;
+  margin-left: 2%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 400px;
+}
+* {box-sizing: border-box;}
+.wrapper {
+    border: 2px solid #000000;
+    border-radius: 5px;
+    background-color: #000000;
+}
+.wrapper > div {
+    border: 2px solid #000000;
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 1em;
+    color: #000000;
+}
+.nested {
+    border: 2px solid #000000;
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 1em;
+}
+
+.rpz_letitre{
+  text-align: center;
+}
+
+.amazon_S{
+  width: 20%;
+  margin-left: 40%;
+  margin-top: 6%;
+}
+
+
+
+@media (min-width: 1439px) {
+  .main_container {
+    margin-top: 0%;
+  }
+
+}
