@@ -1,61 +1,31 @@
-<!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" href="css/style_home.css">
-    <link rel="stylesheet" href="css/reset.css">
-    <meta charset="utf-8">
-    <title>Mayeul CROGUENNEC</title>
-
-  </head>
-  <body>
-
-    <section id="game-start" class="screen is-open">
-      <div class="welcome_sur_le_">
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+    <title>Mayeul Croguennec</title>
+  <link rel="stylesheet" href="/src.e31bb0bc.css"></head>
+    <body class="home-page">
+        <h1>Mayeul Croguennec</h1>
+      <div class="flex-center">
+        <div class="circle"></div>
       </div>
-        <h1>Bonjour,</h1>
-        <p class="welcome">Je m'appelle Mayeul CROGUENNEC.<br>Bienvenue sur mon portfolio</p>
-        <button>Entrer</button>
-    </section>
-
-    <div class="main_container">
-      <div class="about">
-        <div class="img1">
-          <img src="images/user copie.svg" alt="user">
-        </div>
-        <a class="text" href="index_en_cour.html">A propos de moi</a>
-    </div>
-      <div class="skills">
-        <div class="img1">
-          <img src="images/graphic-designer.svg" alt="designer">
-        </div>
-        <a class="text" href="index_en_cour.html">Mes compétences</a>
+      <div class="home-container flex-center">
+        <h2 class="home-subtitle">Developpeur Front-End</h2>
       </div>
-      <div class="projects">
-        <div class="img1">
-          <img src="images/idea.svg" alt="idea">
-        </div>
-        <a class="text" href="mes_projets.html">Mes Projets</a>
+      <div class="flex-center categories-container">
+        <a href="projet/projets.html" class="categories">
+          <div class="categories-circle"></div>
+          <img src="/startup.ce2494be.svg" alt="">
+          <p class="categories-link">Mes projets</p>
+        </a>
+        <a href="/moi.html" class="categories">
+          <div class="categories-circle"></div>
+          <img src="/candidate-for-elections.d5745e51.svg" alt="">
+          <p class="categories-link">A propos de moi</p>
+        </a>
+        <script src="/src.e31bb0bc.js"></script>
       </div>
-      <div class="cv">
-        <div class="img1">
-          <img src="images/cv-file-interface-symbol copie.svg" alt="cv">
-        </div>
-        <a class="text" href="CV.html">CV</a>
-      </div>
-    </div>
-
-    <script>
-    <!--Script du bouton Start(script by 🐢)-->
-
-    var btn = document.querySelector('button');
-    var modal = document.querySelector('.game-start');
-    var modal = document.querySelector('.game');
-
-    btn.addEventListener('click', function() {
-        document.getElementById("game-start").remove('screen is-open');;
-    });
-    </script>
-
-  </body>
+    </body>
 </html>
