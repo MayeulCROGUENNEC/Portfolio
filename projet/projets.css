@@ -1,0 +1,124 @@
+body {
+    line-height: 1.5;
+    margin: 0;
+    padding-right: 1em;
+    padding-left: 1em;
+    background: #000000;
+    color: #000000;
+
+
+}
+
+section{
+  height: 85%;
+  margin: 0 auto;
+  padding-bottom: 4rem;
+  border: solid 3px #9BCD39;
+  background-color: #5EC2B7;
+  border-top: 0;
+}
+
+p {
+    font-size: 1.125em;
+    margin: 0 0 1.5em;
+}
+
+ul {
+    list-style: none;
+
+    display: flex;
+    flex-wrap: wrap;
+
+    margin: 2.618em 0 0;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    flex-direction: column;
+
+    border: 1px solid #d8d8d8;
+    margin: 0 1.25em 1.25em 0;
+    max-width: 18.75em;
+
+    background: white;
+}
+
+/**
+ * in order to trick MS Edge into using Flexbox
+ * I'm looking for support of grid-gap and not
+ * for display: grid
+ */
+@supports (grid-gap: 1.25em) {
+    ul {
+        display: grid;
+        grid-gap: 1.25em;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        padding: 1%;
+        }
+    @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+        ul{grid-template-columns: repeat( 4, minmax(200px, 1fr) );}
+    }
+    @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+        ul{grid-template-columns: repeat( 3, minmax(200px, 1fr) );}
+    }
+    @media only screen and (min-device-width : 100px) and (max-device-width : 767px) and (orientation : landscape) {
+        ul{grid-template-columns: repeat( 3, minmax(200px, 1fr) );}
+    }
+    @media only screen and (min-device-width : 100px) and (max-device-width : 767px) and (orientation : portrait) {
+        ul{grid-template-columns: repeat( 2, minmax(100px, 1fr) );}
+    }
+    li {
+        margin: 0;
+        max-width: 100%;
+        border: solid 3px #9BCD39;
+        background-color: #007EA7;
+    }
+    li:hover {background-color: #EE4266;}
+}
+
+
+figure {
+    margin: 0;
+
+}
+
+img {
+    max-width: 100%;
+
+}
+
+figcaption {
+    display: block;
+
+    margin: 0 .618em;
+    padding: .618em 0;
+}
+
+code {
+    padding: .125em;
+
+}
+h1{
+  font-family: Silom;
+  font-size: 20px;
+  text-align: center;
+
+}
+@font-face {
+  font-family: Silom;
+}
+@media (min-width: 600px) {
+  h1 {
+    font-size: 40px;
+    padding-top: 2%;
+  }
+}
+
+.returnhome{
+  height: 29.8px;
+  width: 29.8px;
+  position: absolute;
+  padding-top: 1%;
+  padding-left: 1%;
+}
