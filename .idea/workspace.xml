@@ -3,40 +3,23 @@
   <component name="ChangeListManager">
     <list default="true" id="e670f8ce-7eec-4890-bb2a-439111551619" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BATMAN_screen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV.001e0450.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV.001e0450.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV.001e0450.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Croguennec.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Croguennec.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Croguennec.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Compilator.d20bdeea.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Compilator.d20bdeea.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Compilator.d20bdeea.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Compilator1.4f6c9d68.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Compilator1.4f6c9d68.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Compilator1.4f6c9d68.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Compilator2.51238c87.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Compilator2.51238c87.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Compilator2.51238c87.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Création du design du site Custom.me.d781998d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Menus_D.4d43c4d5.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nespresso.c9b38c8f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Silom.c9dd0cfe.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SilomBol.3d2d506f.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web 1920 – 1.a393926f.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aigle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amazon.f168bc01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv.7fd4ae5d.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixie.46f07b95.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_propos_moi/moi.css" beforeDir="false" afterPath="$PROJECT_DIR$/A_propos_moi/moi.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_propos_moi/moi.html" beforeDir="false" afterPath="$PROJECT_DIR$/A_propos_moi/moi.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu.2089fc4f.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/projet/projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/projet/projets.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projets.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src.e31bb0bc.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src.e31bb0bc.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/slider_complexe.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/css/Courgette-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/img/slider11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/img/slider12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/img/slider13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/img/slider14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/img/slider15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/img/slider16.jpg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/js/demo-slider-complexe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/slider-complexe.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +87,9 @@
       <updated>1576517410854</updated>
       <workItem from="1576517412086" duration="269000" />
       <workItem from="1576517689549" duration="1641000" />
-      <workItem from="1576582411218" duration="1980000" />
+      <workItem from="1576582411218" duration="2037000" />
+      <workItem from="1576608004589" duration="1032000" />
+      <workItem from="1576691538198" duration="2685000" />
     </task>
     <task id="LOCAL-00001" summary="V2.1">
       <created>1576517453395</created>
@@ -134,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576582446642</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="V2.1">
+      <created>1576607684773</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576607684773</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,17 +137,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="V2.1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="198" y="64" key="CommitChangelistDialog2" timestamp="1576582445225">
+    <state x="55" y="64" key="CommitChangelistDialog2" timestamp="1576607683602">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="198" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1576582445225" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1576582460951">
+    <state x="55" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1576607683602" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1576607690861">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1576582460951" />
-    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1576582411755">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1576607690861" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1576691539314">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1576582411755" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1576691539314" />
   </component>
 </project>

@@ -60,16 +60,21 @@ html {
     color: #fff;
 }
 
-h1 {
-    text-align: center;
-    padding-top: 1.5rem;
+h1{
+    font-family: Silom;
     font-size: 20px;
+    text-align: center;
+
 }
+
+
 @media (min-width: 600px) {
     h1 {
         font-size: 40px;
+        padding-top: 2%;
     }
 }
+
 
 .flex-center {
     display: flex;
@@ -188,15 +193,14 @@ Body {
     background-color: #5EC2B7;
     border-bottom: 0;
 }
+
 @media (min-width: 600px) {
     .CV-page {
         width: 97.5%;
         max-width: 1300px;
     }
 }
-.CV-page h1 {
-    font-size: 20px;
-}
+
 .CV-page .iconleCV {
     width: 29.8px;
     height: 29.8px;
@@ -309,7 +313,7 @@ Body {
     text-decoration: underline;
 }
 
-.Projetlebody {
+.Projlebody {
     height: 85%;
     margin: 0 auto;
     border: solid 3px #9BCD39;
