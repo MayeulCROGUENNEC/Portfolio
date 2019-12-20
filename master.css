@@ -60,10 +60,12 @@ html {
   margin-top: 5%;
 }
 
+
 h1 {
   text-align: center;
   padding-top: 1.5rem;
   font-size: 20px;
+  font-family: "SilomBol"
 }
 @media (min-width: 600px) {
   h1 {
@@ -351,8 +353,8 @@ Body {
 }
 
 @font-face {
-  font-family: SilomBol;
-  src: url(Silom.c9dd0cfe.ttf);
+  font-family: "SilomBol";
+  src: url('Silom.c9dd0cfe.ttf');
 }
 * {
   box-sizing: border-box;

@@ -99,10 +99,18 @@ code {
     padding: .125em;
 
 }
+@font-face {
+  font-family: "SilomBol";
+  src: url('Silom.c9dd0cfe.ttf');
+}
+@font-face {
+  font-family: "Silom";
+  src: url('Silom.c9dd0cfe.ttf');
+}
 h1{
-  font-family: Silom;
-  font-size: 20px;
-  text-align: center;
+    font-family: "SilomBol";
+    font-size: 20px;
+    text-align: center;
 
 }
 @font-face {

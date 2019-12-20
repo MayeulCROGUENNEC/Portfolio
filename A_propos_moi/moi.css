@@ -59,13 +59,25 @@ html {
     width: 100%;
     color: #fff;
 }
-
+@font-face {
+  font-family: "SilomBol";
+  src: url('Silom.c9dd0cfe.ttf');
+}
+@font-face {
+  font-family: "Silom";
+  src: url('Silom.c9dd0cfe.ttf');
+}
+@font-face {
+  font-family: "Orbitron-SemiBold";
+  src: url('Orbitron-SemiBold.ttf');
+}
 h1{
-    font-family: Silom;
+    font-family: "SilomBol";
     font-size: 20px;
     text-align: center;
 
 }
+p {font-family: "Orbitron-SemiBold"}
 
 
 @media (min-width: 600px) {
@@ -272,14 +284,14 @@ Body {
 }
 
 .corpus {
-    font-family: Avenir Next;
     font-size: 15px;
     text-align: center;
     padding-top: 36px;
+    
 }
 @media (min-width: 600px) {
     .corpus {
-        font-size: 30px;
+        font-size: 25px;
     }
 }
 

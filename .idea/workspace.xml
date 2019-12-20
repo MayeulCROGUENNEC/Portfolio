@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e670f8ce-7eec-4890-bb2a-439111551619" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_propos_moi/moi.css" beforeDir="false" afterPath="$PROJECT_DIR$/A_propos_moi/moi.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_propos_moi/moi.html" beforeDir="false" afterPath="$PROJECT_DIR$/A_propos_moi/moi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/projet/projets.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/slider_complexe.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/css/Courgette-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/img/slider11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/img/slider12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/img/slider13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/img/slider14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/img/slider15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/img/slider16.jpg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/js/demo-slider-complexe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/js/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/slider_complexe/slider-complexe.html" beforeDir="false" />
-    </list>
+    <list default="true" id="e670f8ce-7eec-4890-bb2a-439111551619" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +70,7 @@
       <workItem from="1576517689549" duration="1641000" />
       <workItem from="1576582411218" duration="2037000" />
       <workItem from="1576608004589" duration="1032000" />
-      <workItem from="1576691538198" duration="2685000" />
+      <workItem from="1576691538198" duration="2812000" />
     </task>
     <task id="LOCAL-00001" summary="V2.1">
       <created>1576517453395</created>
@@ -126,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576607684773</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="V2.2">
+      <created>1576695178541</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576695178541</updated>
+    </task>
+    <task id="LOCAL-00007" summary="V2.2">
+      <created>1576695271705</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576695271705</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,17 +129,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="V2.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="V2.1" />
+    <MESSAGE value="V2.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="V2.2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="55" y="64" key="CommitChangelistDialog2" timestamp="1576695177790">
+    <state x="55" y="64" key="CommitChangelistDialog2" timestamp="1576695271512">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="55" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1576695177790" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1576695199944">
+    <state x="55" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1576695271512" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1576695280676">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1576695199944" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1576695280676" />
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1576691539314">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
